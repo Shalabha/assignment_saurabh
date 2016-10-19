@@ -1,0 +1,114 @@
+.homepage{
+background-color: #9bfbe4;	
+}
+.homepage h2{
+	font-weight: bold;
+	font-style: italic;
+}
+.homepage h4{
+	font-weight: bold;
+	font-style: italic;
+}
+.logpage{
+background-color: cyan;	
+	padding-bottom: 50px;
+
+}
+.signpage input{
+	color: red;
+}
+.signpage{
+background-color: green;	
+color: white;
+	padding-bottom: 50px;
+
+}
+.appending_div{
+	background-color: pink;
+	border-radius: 5px;
+	padding-top: 1%;
+}
+a{
+	color:white;
+}
+header{
+	background-color: #b3a4b9;
+	padding-top: 1.5%;
+}
+header a:hover{
+	color: orange;
+}
+.clear{
+	clear: both;
+}
+.content{
+	text-align: justify;
+	line-height: 25px;
+	font-size: 13px;
+	font-family: helvetica;
+}
+/*.frst{
+	background-color: lightgreen;
+}*/
+.scnd{
+	background-color: orange;
+}
+img{
+	width: 500px;
+	height: 300px;
+}
+button{
+	background-color: green;
+	color: white;	
+	border:none;
+}
+h2{
+	text-transform: uppercase;
+	margin: 0px 0px 50px 0px;
+}
+.logpage button{
+	background-color: orange;
+	border: none;
+	color: white;
+}
+.sign{
+	background-color: #92f14a;
+	border: none;
+	font-weight: bold;
+}
+.log{
+	background-color: orange;
+	border: none;
+	color: white;
+}
+.para {
+	border: none;
+	background-color: transparent;
+	color: #3da1ea;
+}
+
+.forpage{
+	padding-top: 2%;
+background-color: cyan;	
+	padding-bottom: 50px;
+
+}
+.addpost{
+	padding-top: 2%;
+background-color: cyan;	
+	padding-bottom: 50px;
+
+}
+.submit{
+	background-color: orange;
+	color: white;
+	border:none;
+	outline: none;
+	border-radius: 5px;
+}
+.changepage{
+	padding-top: 2%;
+background-color: cyan;	
+	padding-bottom: 50px;
+
+}
